@@ -13,6 +13,7 @@ public class GittestApplicationTests {
     public void contextLoads() {
         
     }
+    @Test
     public void test(){
         System.out.println("这是一个测试");
     }
